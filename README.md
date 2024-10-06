@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/09vs/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/09vs/leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/09vs/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/09vs/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
