@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/09vs/leetcode/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/09vs/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
