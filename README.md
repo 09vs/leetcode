@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/09vs/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
