@@ -9,7 +9,7 @@ public:
             }
         }
         vector<int> v(s.begin(),s.end());
-        return v;
+        return v; 
     }
 };
 
