@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/09vs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/09vs/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/09vs/leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -77,10 +78,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/09vs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/09vs/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/09vs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
