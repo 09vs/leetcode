@@ -11,6 +11,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/09vs/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/09vs/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/09vs/leetcode/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/09vs/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/09vs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/09vs/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/09vs/leetcode/tree/master/0031-next-permutation) |
