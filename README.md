@@ -24,6 +24,7 @@
 | [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/09vs/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/09vs/leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/09vs/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/09vs/leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/09vs/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Array
@@ -82,6 +83,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/09vs/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/09vs/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/09vs/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
