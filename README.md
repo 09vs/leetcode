@@ -88,6 +88,7 @@
 | [0012-integer-to-roman](https://github.com/09vs/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/09vs/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/09vs/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/09vs/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/09vs/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/09vs/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -115,4 +116,13 @@
 | [0007-reverse-integer](https://github.com/09vs/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/09vs/leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/09vs/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/09vs/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/09vs/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/09vs/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
