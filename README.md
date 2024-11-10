@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/09vs/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/09vs/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/09vs/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/09vs/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/09vs/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -43,6 +44,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/09vs/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/09vs/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/09vs/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/09vs/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/09vs/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
