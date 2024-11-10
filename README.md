@@ -40,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/09vs/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/09vs/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/09vs/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/09vs/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/09vs/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/09vs/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/09vs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -126,4 +130,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/09vs/leetcode/tree/master/0067-add-binary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09vs/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
