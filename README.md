@@ -37,6 +37,7 @@
 | [0031-next-permutation](https://github.com/09vs/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/09vs/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/09vs/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/09vs/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/09vs/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09vs/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/09vs/leetcode/tree/master/0217-contains-duplicate) |
@@ -113,4 +114,5 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/09vs/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/09vs/leetcode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/09vs/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
