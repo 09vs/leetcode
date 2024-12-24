@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/09vs/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/09vs/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/09vs/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/09vs/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/09vs/leetcode/tree/master/0058-length-of-last-word) |
